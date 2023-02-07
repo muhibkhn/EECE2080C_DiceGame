@@ -1,0 +1,7 @@
+﻿  EECE 2080C - Dice_Game.cpp
+C:\Users\muhib\OneDrive - University of Cincinnati\Desktop\Summer 2022\EECE 2080C\EECE 2080C - Dice_Game\EECE 2080C - Dice_Game\EECE 2080C - Dice_Game.cpp(273,43): error C2664: 'void DiceGame::writeScoresToFile(char *)': cannot convert argument 1 from 'const char [14]' to 'char *'
+C:\Users\muhib\OneDrive - University of Cincinnati\Desktop\Summer 2022\EECE 2080C\EECE 2080C - Dice_Game\EECE 2080C - Dice_Game\EECE 2080C - Dice_Game.cpp(273,28): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\muhib\OneDrive - University of Cincinnati\Desktop\Summer 2022\EECE 2080C\EECE 2080C - Dice_Game\EECE 2080C - Dice_Game\EECE 2080C - Dice_Game.cpp(96,10): message : see declaration of 'DiceGame::writeScoresToFile'
+C:\Users\muhib\OneDrive - University of Cincinnati\Desktop\Summer 2022\EECE 2080C\EECE 2080C - Dice_Game\EECE 2080C - Dice_Game\EECE 2080C - Dice_Game.cpp(274,42): error C2664: 'void DiceGame::findHighestScore(char *)': cannot convert argument 1 from 'const char [14]' to 'char *'
+C:\Users\muhib\OneDrive - University of Cincinnati\Desktop\Summer 2022\EECE 2080C\EECE 2080C - Dice_Game\EECE 2080C - Dice_Game\EECE 2080C - Dice_Game.cpp(274,27): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\muhib\OneDrive - University of Cincinnati\Desktop\Summer 2022\EECE 2080C\EECE 2080C - Dice_Game\EECE 2080C - Dice_Game\EECE 2080C - Dice_Game.cpp(112,10): message : see declaration of 'DiceGame::findHighestScore'
